@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning cypress
 - 💞️ I’m looking to collaborate on new QA team
-- 📫 How to reach me 9860195750
+- 📫 How to reach me 
 
 <!---
 renushahi06/renushahi06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
